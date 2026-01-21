@@ -7,7 +7,7 @@ Hi, I'm Sania<br>CS student<br>Learning by building and playing around things<br
   <a href="https://www.linkedin.com/in/sania-shaikh05 target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35"/>
   </a>
-  <a href="https://www.instagram.com/_.sxn.a_/" target="_blank">
+  <a href="https://www.instagram.com/_.sxn.a/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35"/>
   </a>
 </p>
